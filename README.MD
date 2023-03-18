@@ -1,18 +1,24 @@
-# Getting Started with Create React App
+# Mern Crud App
+About app :- It's a begginer friendly basic crud app where we can add, see, update and delete student data.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+## Start project
+  
+1. clone project 
+### frontend
+2. cd mern-crud-operation
+3. npm i (for intalling all dependencies)
+4. npm start
+5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser. \
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+ ### backend
+6. cd backend
+7. npm i (for intalling all dependencies)
+8. node index.js or nodemon index.js \
+note :- make sure you have installed mongodb compass otherwise you can change mongodb connection string to connect database
+ 
+# Now your project looks like this 
+https://user-images.githubusercontent.com/116198388/226098983-6e792035-90b6-4f1f-b7e7-35b52ae50cf2.mp4
 
 ### `npm test`
 
